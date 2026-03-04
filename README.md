@@ -21,7 +21,7 @@ Lightweight macOS menu bar screenshot app. Low file size by default — built fo
 ## Install
 
 ```bash
-git clone https://github.com/logcabbin/MacSnap.git
+git clone https://github.com/void-pulse/MacSnap.git
 cd MacSnap
 bash install.sh
 ```
@@ -80,7 +80,7 @@ bash uninstall.sh
 
 ## Wiki
 
-Full documentation: [github.com/logcabbin/MacSnap/wiki](https://github.com/logcabbin/MacSnap/wiki)
+Full documentation: [github.com/void-pulse/MacSnap/wiki](https://github.com/void-pulse/MacSnap/wiki)
 
 ---
 
