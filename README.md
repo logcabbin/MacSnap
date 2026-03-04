@@ -1,6 +1,6 @@
 # MacSnap
 
-Lightweight macOS menu bar screenshot app. Low file size by default — built for humans and AI alike.
+Lightweight macOS menu bar screenshot app. Scale and compress screenshots instantly — less clutter for humans, fewer tokens for AI.
 
 ![macOS](https://img.shields.io/badge/macOS-11%2B-blue) ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
